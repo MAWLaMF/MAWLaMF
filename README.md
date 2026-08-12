@@ -36,8 +36,9 @@ Web application for product management and furniture catalog.
 ### ⚽ Balones
 QR-based system for managing ball loans and returns.
 
-### 💰 Cajero
-Banking/ATM simulation project.
+### 👓 bambú glass
+Web project for selling lenses made of bamboo.
+
 
 ---
 
